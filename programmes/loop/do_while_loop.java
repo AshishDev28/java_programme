@@ -1,15 +1,19 @@
 package programmes.loop;
 
-public class while_loop {
+public class do_while_loop {
     public static void main(String[] args){
-        //The while loop loops through a block of code as long as a specified condition is true
+        /*do {
+         // code block to be executed
+            }
+        while (condition); */
 
         int i=0;
-
-        while (i<5){
+        do{ 
             System.out.println(i);
             i++;
         }
+        while(i<5);
+
     }
     
 }
