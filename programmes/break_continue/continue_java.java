@@ -1,4 +1,4 @@
-package programmes.break_continue;
+package break_continue;
 
 public class continue_java {
     public static void main(String[] args){

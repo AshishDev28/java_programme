@@ -1,4 +1,4 @@
-package programmes.switch_case;
+package switch_case;
 
 public class Switch_case {
     public static void main(String[] args){

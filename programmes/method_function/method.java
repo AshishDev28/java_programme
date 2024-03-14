@@ -1,4 +1,4 @@
-package programmes.method_function;
+package method_function;
 
 public class method {
     static void myMethod(){     //function declared
