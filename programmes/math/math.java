@@ -1,4 +1,4 @@
-package programmes.math;
+package math;
 
 public class math {
     public static void main(String[] args){

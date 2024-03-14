@@ -1,4 +1,4 @@
-package programmes.conditional_statement;
+package else_if__conditional_statement;
 
 public class else_if__condition {
     public static void main(String[] args){
