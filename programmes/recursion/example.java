@@ -2,7 +2,7 @@ package recursion;
 
 public class example {
     public static void main(String[] args){
-        int result = sum(10);
+        int result = sum(11);
         System.out.println(result);
     }
 
