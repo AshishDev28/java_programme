@@ -1,5 +1,4 @@
 package programmes.array;
-import java.util.*;
 public class max_in_array {
     public static int getlargest(int numbers[]){
         int largest = Integer.MIN_VALUE;
