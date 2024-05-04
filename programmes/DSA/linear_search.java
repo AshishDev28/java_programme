@@ -1,12 +1,10 @@
 package DSA;
-import java.util.*;
 public class linear_search {
     public static int linearsearch(int numbers[] ,int key){
         for(int i =0;i<numbers.length;i++){
             if (numbers[i]==key){
                 return i;
             }
-
         }
         return -1;
     }
@@ -24,6 +22,5 @@ public class linear_search {
         System.out.print("key is at index :"+index);
     }
 
-    }
-    
+    } 
 }

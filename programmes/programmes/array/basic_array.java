@@ -1,6 +1,6 @@
-package array;
+package programmes.array;
 
-public class array {
+public class basic_array {
     public static void main(String[] args){
         String[] name = {"Ashish","Dhoni","Virat","Akhil","Jhon"};
         

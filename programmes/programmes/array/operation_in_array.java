@@ -1,4 +1,4 @@
-package array;
+package programmes.array;
 
 public class operation_in_array {
     public static void update(int numbers[]) {

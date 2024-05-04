@@ -1,4 +1,4 @@
-package programmes.loop;
+package  ;
 
 public class do_while_loop {
     public static void main(String[] args){
